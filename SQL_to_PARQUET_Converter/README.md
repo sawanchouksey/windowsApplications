@@ -91,3 +91,13 @@ This project is open-source and available under the MIT License. Feel free to mo
 ## Summary
 
 The **SQL to Parquet Converter** provides a simple and efficient way to export SQL Server database tables to Parquet files, which can be useful for further data analysis or storage in big data ecosystems. The application handles large datasets efficiently, allows for custom output settings, and provides detailed logging and error handling.
+
+### Support Me
+
+**If you find my content useful or enjoy what I do, you can support me by buying me a coffee. Your support helps keep this website running and encourages me to create more content.**
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sawanchokso)
+
+**Your generosity is greatly appreciated!**
+
+##### Thank you for your support!💚
